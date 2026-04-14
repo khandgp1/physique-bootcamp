@@ -5,6 +5,8 @@ This program is designed to:
 - Be sustainable long-term
 - Build identity, not just results
 
+DON'T OVERTHINK ANYTHING
+
 ---
 
 ## Start Here
