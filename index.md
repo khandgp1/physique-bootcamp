@@ -1,5 +1,3 @@
-# Aesthetic Physique Program
-
 Build a lean, aesthetic body through simple daily actions.
 
 This program is designed to:
