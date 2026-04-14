@@ -8,7 +8,7 @@ title: "Aesthetic Physique Bootcamp"
 description: "Build your best physique step-by-step"
 
 # 🌅 Skin
-minimal_mistakes_skin: "aqua" # options: neon, contrast, dark, default, dark, neon, etc.
+minimal_mistakes_skin: "neon" # options: neon, contrast, dark, default, dark, neon, etc.
 
 # Optional (nice defaults)
 markdown: kramdown
