@@ -1,1 +1,10 @@
-theme: minimal-mistakes-jekyll
+title: "Aesthetic Physique Program"
+description: "Build your best physique step-by-step"
+
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "dark" # options: default, dark, neon, etc.
+
+markdown: kramdown
