@@ -1,10 +1,10 @@
-title: "Aesthetic Physique Program"
+title: "Aesthetic Physique Bootcamp"
 description: "Build your best physique step-by-step"
 
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
 
-minimal_mistakes_skin: "default" # options: dark, default, dark, neon, etc.
+minimal_mistakes_skin: "sunrise" # options: dark, default, dark, neon, etc.
 
 markdown: kramdown
