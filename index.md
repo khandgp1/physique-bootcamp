@@ -1,23 +1,29 @@
-Build a lean, aesthetic body through simple daily actions.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Maharaja | Aesthetic Protocol</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
-This program is designed to:
-- Maximize aesthetics (low body fat + muscle shape)
-- Be sustainable long-term
-- Build identity, not just results
+    <header>
+        <h1>THE MODERN MAHARAJA</h1>
+        <p class="subtitle">Aesthetic Physique Protocol</p>
+    </header>
 
-DON'T OVERTHINK ANYTHING
+    <nav id="tab-container">
+        </nav>
 
----
+    <main id="workout-content">
+        <div class="loader">Loading your program...</div>
+    </main>
 
-## Start Here
+    <footer>
+        <p>© 2026 High-Value Lifestyle Design</p>
+    </footer>
 
-- [Day 1](day-01.md)
-- [Day 2](day-02.md)
-
----
-
-## Core Principles
-
-- [Nutrition](principles/nutrition.md)
-- [Training](principles/training.md)
-- [Lifestyle](principles/lifestyle.md)
+    <script src="script.js"></script>
+</body>
+</html>
